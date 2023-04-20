@@ -6,7 +6,8 @@ Hello world, Hello Git!
 Hello world, Hello Git!
 Hello world, Hello Git!
 Hello world, Hello Git!
-Hello world, Hello Git, master-branch!
+Hello world, Hello Git, master branch!
+Hello world, Hello Git, hot-fix branch!
 Hello world, Hello Git!
 Hello world, Hello Git!
 Hello world, Hello Git!
